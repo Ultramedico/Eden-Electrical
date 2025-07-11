@@ -63,7 +63,7 @@ const Services = () => {
     { id: 4, category: 'commercial', alt: 'Industrial electrical work' , src: Faulty2},
     { id: 5, category: 'emergency', alt: 'Emergency repair' , src: Prepaid2 },
     { id: 6, category: 'residential', alt: 'Home electrical system' , src: Residential2 },
-    { id: 7, category: 'commercial', alt: 'Office wiring',  src: Industrial },
+    { id: 7, category: 'commercial', alt: 'Office wiring',  src: Industrial  },
     { id: 8, category: 'emergency', alt: 'Fault diagnosis', src: Faulty}
   ];
 
