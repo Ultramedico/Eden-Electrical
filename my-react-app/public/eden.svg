@@ -1,0 +1,26 @@
+ <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 64 64"
+    className="h-12 w-12" // Adjust size as needed
+  >
+    {/* Background circle */}
+    <circle cx="32" cy="32" r="30" fill="#4f46e5" />
+    
+    {/* Bolt shape */}
+    <path
+      d="M28 12L16 32h12l-4 20 20-24H32l4-16z"
+      fill="#f59e0b"
+      stroke="#111827"
+      strokeWidth="1.5"
+    />
+    
+    {/* Outer ring */}
+    <circle
+      cx="32"
+      cy="32"
+      r="28"
+      fill="none"
+      stroke="#f59e0b"
+      strokeWidth="2"
+    />
+  </svg>
